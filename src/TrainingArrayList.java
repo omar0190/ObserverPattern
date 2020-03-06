@@ -1,5 +1,6 @@
 // En statisk metode tilhører klassen, og ikke et objekt.
 // Du skal instatiere d
+///Hahahhaahah
 
 import java.util.ArrayList;
 
